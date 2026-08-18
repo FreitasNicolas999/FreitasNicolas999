@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Software Developer Junior focused on technology, innovation, and continuous learning
+### Junior Software Developer passionate about Front-end Development, Data Science, and building digital solutions that enhance user experience.
 
 </div>
 
