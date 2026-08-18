@@ -69,11 +69,11 @@ I'm a developer focused on building efficient, scalable, and well-structured sol
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Projects
 
 <div align="center">
 
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=180em](https://crie-site-zeta.vercel.app/)"
+src="[https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=180em](https://crie-site-zeta.vercel.app/)"
 
 </div>
 
@@ -83,7 +83,7 @@ I'm a developer focused on building efficient, scalable, and well-structured sol
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&themet
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FreitasNicolas999&themet
 
 </div>
 
