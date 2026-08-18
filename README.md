@@ -79,16 +79,6 @@ src="[https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&s
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FreitasNicolas999&themet
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - Backend Development
