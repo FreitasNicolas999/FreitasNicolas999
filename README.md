@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Passionate Software Developer focused on technology, innovation, and continuous learning
+### Software Developer Junior focused on technology, innovation, and continuous learning
 
 </div>
 
@@ -73,7 +73,7 @@ I'm a developer focused on building efficient, scalable, and well-structured sol
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUBtheme=tokyonight
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=180em](https://crie-site-zeta.vercel.app/)"
 
 </div>
 
