@@ -1,9 +1,43 @@
-# 👨‍💻 Nicolas Freitas
+<h1 align="center">👋 Hello, I'm Freitas Freitas</h1>
+
+<p align="center">
+  Developer Full Stack • Science Computer • Systems Analyst 
+</p>
+
+---
+
+## 🌐 Social Media
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](tagram.com/_freitasnicolas/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://om/in/freitasnicolass/)
+
+---
+
+## 🚀 Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&black
+  
+
+---
+
+## 📫 Contact
+
+📧 Email: nicolasfreitass@Icloud.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/freitasnicolass/
+
+📷 Instagram: https://www.instagram.com/_freitasnicolas/
+
+
+
+
+---
 
 <div align="center">
 
-### Junior Software Developer passionate about Front-end Development, Data Science, and building digital solutions that enhance user experience.
-
+### Junior Full Stack Developer • Computer Science Student • Systems Analyst • Data Analysis & Automation Enthusiast
 </div>
 
 ---
