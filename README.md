@@ -19,8 +19,8 @@ I'm a developer focused on building efficient, scalable, and well-structured sol
 - ⚡ Fun fact: I love turning ideas into code
 
 <div align="left">
-  <a href="https://instagram.com/YOUR_USERNAME" target="_://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7638FA&logoColor=white&style=for-the-badge" height="
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="ttps://linkedinOUR_LINKEDIN
+  <a href="https://instagram.com/_freitasnicolas" target="_://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7638FA&logoColor=white&style=for-the-badge" height="
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="ttps://linkedin_freitasnicolass
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for
   </a>
 </div>
@@ -70,9 +70,9 @@ I'm a developer focused on building efficient, scalable, and well-structured sol
 ---
 ### 🌐 Redes Sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:/_freitasnicolas)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:/_freitasnicolas)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitekedin.com/in/freitasnicolass)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitekedin.com/in/freitasnicolass)
 
 ---
 
