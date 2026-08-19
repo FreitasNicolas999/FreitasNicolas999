@@ -63,10 +63,16 @@ I'm a developer focused on building efficient, scalable, and well-structured sol
 ---
 ## 🌐 Redes Sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagramte](https://www.instagram.com/_freitasnicolas/)
+<p align="left">
+  <a href="https://www.instagram.com/_freitasnicolas/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram=white
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badgen&logoColor=white](https://www.linkedin.com/in/freitasnicolass/)
-
+  <a href="https://www.linkedin.com/in/freitasnicolass/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077Br-the-badge&logo=linkedin&logoColor=white
+  </a>
+</p>
+      
 ---
 
 ## 🎯 Current Focus
