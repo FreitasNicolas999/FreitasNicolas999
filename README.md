@@ -68,7 +68,14 @@ I'm a developer focused on building efficient, scalable, and well-structured sol
 </p>
 
 ---
+### Social Network
 
+<p>
+  <img src="[![Instagram](https://shields.io)](https://instagram.com)" />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
+</p>
+
+---
 
 ## 🎯 Current Focus
 
