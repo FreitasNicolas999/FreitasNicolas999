@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Freitas </h1>
 
 <p align="center">
-  Developer Full Stack • Science Computer • Systems Analyst 
+  Developer Full Stack • Data Analyst  • Systems Analyst 
 </p>
 
 ---
