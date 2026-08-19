@@ -73,7 +73,7 @@ I'm a developer focused on building efficient, scalable, and well-structured sol
 
 <div align="center">
 
-src="[https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=180em](https://crie-site-zeta.vercel.app/)"
+src="(https://crie-site-zeta.vercel.app/)"
 
 </div>
 
