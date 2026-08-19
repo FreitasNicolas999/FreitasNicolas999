@@ -69,15 +69,6 @@ I'm a developer focused on building efficient, scalable, and well-structured sol
 
 ---
 
-## 📊 Projects
-
-<div align="center">
-
-src="(https://crie-site-zeta.vercel.app/)"
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
