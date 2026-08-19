@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Freitas Freitas</h1>
+<h1 align="center">👋 Hello, I'm Freitas </h1>
 
 <p align="center">
   Developer Full Stack • Science Computer • Systems Analyst 
