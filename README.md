@@ -68,12 +68,11 @@ I'm a developer focused on building efficient, scalable, and well-structured sol
 </p>
 
 ---
-### Social Network
+### 🌐 Redes Sociais
 
-<p>
-  <img src="[![Instagram](https://shields.io)](https://instagram.com)" />
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:/_freitasnicolas)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitekedin.com/in/freitasnicolass)
 
 ---
 
